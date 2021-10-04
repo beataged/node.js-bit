@@ -7,6 +7,3 @@
 
 const aDOM = document.querySelector('a');
 aDOM.innerText = 'Spausk mane';
-
-
-console.log(aDOM);
