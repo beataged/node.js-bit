@@ -1,0 +1,3 @@
+function generuotiLenta(selector, number){
+    
+}
